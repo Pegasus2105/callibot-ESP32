@@ -1,5 +1,5 @@
 # callibot-ESP32
-Modul zur Steuerung eines Callibot der Firma Knotech mit einem ESP32 und micropython über den I2C-Bus.
+### Modul zur Steuerung eines Callibot der Firma Knotech mit einem ESP32 und micropython über den I2C-Bus.
 
 Dieses Modul erlaubt es einen Callibot der Firma Knotech über einen ESP32 Mikrokontroller anzusprechen und verschiedene Funktionen des Callibot zu steuern. Dazu muss das Modul "callibot2ESP32.py" auf den ESP32 hochgelden werden. Der ESP32 Mikrocontroller wiederum muss mit micropython firmware bestückt sein. Weiterhin muss der ESP32 mit der Callibot Stromversorgung und dem I2C-Bus grove-Stecker verbunden werden. Ein einfacher Schaltplan und Foto ist mit hinterlegt. Das Modul definiert die Klasse Callibot2, die wiederum alle Methoden zur Initialisierung, Motor- und Adaptersteuerung bereit stellt.
 
