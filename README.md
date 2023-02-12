@@ -29,3 +29,7 @@ mcb2.i2cStop()         # I2C-Bus Kommunikation schließen
 
 ## Schaltplan
 ![Schaltplan](https://github.com/Pegasus2105/callibot-ESP32-micropython/blob/main/Schaltplan%20Callibot.svg)
+
+## Fotos
+![ESP32](https://wolfgang.rafelt.net/wordpress/wp-content/uploads/2021/04/calliope-ESP32-01.jpg)
+![ESP32](https://wolfgang.rafelt.net/wordpress/wp-content/uploads/2021/04/calliope-07.jpg)
