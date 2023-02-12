@@ -28,4 +28,4 @@ mcb2.i2cStop()         # I2C-Bus Kommunikation schließen
 ```
 
 ## Schaltplan
-![Schaltplan](https://myoctocat.com/assets/images/base-octocat.svg)
+![Schaltplan](https://github.com/Pegasus2105/callibot-ESP32-micropython/blob/main/Schaltplan%20Callibot.svg)
